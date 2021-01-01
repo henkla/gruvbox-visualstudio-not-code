@@ -6,18 +6,18 @@ This is a Gruvbox theme and color palette for Visual Studio (not VS Code).
 
 ## Installation
 
-#### 1: Download and save `gruvbox.vstheme`
+1. Download and save `gruvbox.vstheme`
 Here's a [link to the raw file](https://github.com/henkla/gruvbox-visualstudio-not-code/blob/main/gruvbox.vstheme?raw=true)
 
-#### 2: Open `Visual Studio`
+1. Open `Visual Studio`
 Tested on Visual Studio Professional 2019
 
-#### 3: Chose `Tools > Customize Colors`
+1. Chose `Tools > Customize Colors`
 ![Step 3](https://github.com/henkla/gruvbox-visualstudio-not-code/blob/main/Installation/step3.png?raw=true)
 
-#### 4: Click on `Import Theme` to the right
+1. Click on `Import Theme` to the right
 ![Step 4](https://github.com/henkla/gruvbox-visualstudio-not-code/blob/main/Installation/step4.png?raw=true)
 
-#### 5: Locate the `gruvbox.vstheme` which you downloaded during step `1`
+1. Locate the `gruvbox.vstheme` which you downloaded during step `1`
 
-#### 6: Click on imported theme and have it applied
+1. Click on imported theme and have it applied
