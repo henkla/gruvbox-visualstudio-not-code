@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="Gruvbox Fixed" GUID="{78ce7cf5-9bb3-4caa-9ae5-99512bf5545e}">
+  <Theme Name="Gruvbox" GUID="{78ce7cf5-9bb3-4caa-9ae5-99512bf5545e}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF2E2E2E" />
