@@ -12,3 +12,4 @@ This is a Gruvbox theme and color palette for Visual Studio (not VS Code).
 4. Click on `Import Theme` to the right
    ![Step 3](https://github.com/henkla/gruvbox-visualstudio-not-code/blob/main/Installation/step4.png?raw=true)
 5. Locate the `gruvbox.vstheme` which you downloaded during step `1`
+6. Click on imported theme and have it applied
