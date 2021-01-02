@@ -1,7 +1,7 @@
-![Gruvbox](https://github.com/henkla/gruvbox-visualstudio-not-code/blob/main/Assets/logo.png?raw=true) 
-# Gruvbox for Visual Studio (not VS Code)
-
-
+<h1>
+  <img src="https://github.com/henkla/gruvbox-visualstudio-not-code/blob/main/Assets/logo.png?raw=true" width="30" height="30">
+  Gruvbox for Visual Studio (not VS Code)
+</h1> 
 
 This is a Gruvbox theme and color palette for Visual Studio (not VS Code).
 
